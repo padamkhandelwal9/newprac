@@ -1,4 +1,4 @@
 # newprac
-2nd Github repo
+2nd Github repo.
 <br>
 Author-Padam
